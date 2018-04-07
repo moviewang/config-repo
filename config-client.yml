@@ -1,5 +1,5 @@
 info:
   profile: default
-  from: gitxxx
+  from: git
   
 test: success666
